@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Biodata Saya</title>
+</head>
+<body>
+  <h1>Biodata Saya</h1>
+
+<h2>Informasi Pribadi</h2>
+<p>Nama: ines anindiyta</p>
+<p>Alamat: dowakan jumoyo salam magelang</p>
+<p>Tanggal Lahir: 6 februauri 2006</p>
+<p>Npm : 2440506065</p>
+</body>
+</html>
